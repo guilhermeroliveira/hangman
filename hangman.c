@@ -4,6 +4,7 @@
 #include <string.h>
 #include <time.h>
 #include <ctype.h>
+
 #include "hangman.h"
 
 char g_word[WORD_SIZE];
